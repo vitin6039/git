@@ -1,0 +1,222 @@
+# Webalizer V2.01-10 Incremental Data - 03/10/2013 22:31:28
+2013 3 10 22 31 28
+72 38 13 14 7 8 334485 30 19 0
+3 1 22 2 10
+0 0 0 0 0 0
+9 5 60454 2 2 2
+0 0 0 0 0 0
+7 4 57312 1 1 1
+27 10 127664 4 8 4
+2 1 6272 1 1 1
+3 2 7946 2 2 2
+2 1 4784 2 1 1
+4 2 20363 2 1 1
+18 13 49690 3 14 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 3200 1
+7 4 57312 1
+0 0 0 0
+12 8 40906 8
+4 2 20363 1
+1 0 2808 0
+2 1 3142 1
+0 0 0 0
+0 0 0 0
+5 2 13562 2
+29 11 172510 6
+1 1 1647 1
+1 1 1674 1
+0 0 0 0
+3 2 5848 2
+0 0 0 0
+3 3 7017 3
+0 0 0 0
+1 1 1674 1
+1 0 207 1
+0 0 0 0
+0 0 0 0
+1 1 2615 1
+0 0 0 0
+0
+0
+0
+38
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+0
+28
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 12 0 27259 12 3
+/positions.html
+0 2 0 8677 1 0
+/images/Victor_Pagan_resume_02_17.pdf
+0 1 0 208 0 0
+/cert.html
+0 3 0 3576 1 1
+/images/profile1.jpg
+1 4 0 56444 0 0
+/images/temple.jpg
+1 1 0 5061 0 0
+/images/tamuctsealfinal3.png
+1 1 0 29263 0 0
+/education.html
+0 5 0 11340 3 1
+/images/itp.jpg
+1 1 0 7865 0 0
+/style.css
+0 4 0 5404 0 0
+/images/banner.jpg
+1 3 0 100182 0 0
+/skills.html
+0 3 0 4962 1 1
+/project.html
+0 3 0 5402 1 1
+/images/ctc.jpg
+1 1 0 7559 0 0
+# End Of Table - urls
+# -sites- (monthly)
+157.55.32.80
+0 3 2 6760 2 1362803325
+/education.html
+38.229.70.44
+0 1 1 3464 1 1362675495
+/
+199.115.113.98
+0 2 1 6272 1 1362562301
+/
+199.21.99.106
+0 9 6 18675 6 1362954688
+/positions.html
+199.217.115.189
+0 1 1 3200 1 1362443098
+/
+76.0.69.127
+0 7 4 57312 1 1362189525
+/
+38.100.21.67
+0 11 8 38098 1 1362886451
+-
+91.207.61.60
+0 1 0 207 1 1362942144
+/
+199.30.20.71
+0 2 1 15579 0 0
+-
+64.246.165.10
+0 2 1 4482 1 1362647653
+/
+208.18.90.115
+0 29 11 172510 2 1362479896
+/cert.html
+157.55.35.53
+0 2 1 4784 1 1362494059
+/education.html
+75.101.181.182
+0 2 1 3142 1 1362207188
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+199.21.99.106
+0 6 5 11385 5 1362954688
+/positions.html
+38.100.21.67
+0 11 8 38098 1 1362886451
+-
+91.207.61.60
+0 1 0 207 1 1362942144
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 47
+http://whois.domaintools.com/victorlpagan.com
+1 1
+http://victorlpagan.com/project.html
+1 1
+http://victorlpagan.com/education.html
+1 4
+http://victorlpagan.com/skills.html
+1 1
+http://victorlpagan.com/cert.html
+1 2
+http://victorlpagan.com/
+1 16
+# End Of Table - referrers
+# -agents- 
+MSIE 7.0
+0 11
+curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.13
+0 1
+Googlebot/2.1
+0 1
+MSIE 5.5
+0 2
+Netscape 6 compatible
+2 41
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 2
+Mozilla/5.0
+0 41
+YandexBot/3.0
+0 9
+bingbot/2.0
+0 5
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
